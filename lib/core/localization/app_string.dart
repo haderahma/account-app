@@ -1,0 +1,30 @@
+abstract class AppString {
+  static const String signin = "Sign in";
+  static const String email = "Email";
+  static const String password = "Password";
+  static const String name = "Name";
+  static const String signUp = "Sign Up";
+  static const String getStartit = "Lets get Started";
+  static const String forgetPassword = "Forget Password";
+  static const String welcome = "Welcome";
+  static const String existingcustomer = "Existing  customer / Get started";
+  static const String newcustomer = "New customer?";
+  static const String createnewaccount = " Create new account";
+  static const String back = "Back";
+  static const String pleaselog = "Please log in into your account";
+  static const String google = "Sign in with Google";
+  static const String facebook = "Sign in with Facebook";
+  static const String pleasecreate = "Please create a new account";
+  static const String agree = "Agree the terms of use and privacy policy";
+  static const String enteryouremailfortheverification = "Enter your email for the verification process, we will send code to your email";
+  static const String enteryouremail = "Enter your email";
+  static const String continue1 = "Continue";
+  static const String entercode = "Enter 4 digit code";
+  static const String afourdigitcode = "A four-digit code should have come to your email address that you indicated.";
+  static const String confirm = "Confirm";
+  static const String cancel = "Cancel";
+  static const String erroemail = "This user already exists. Try logging instead"; 
+  static const String incorrectpassword = "Incorrect password";
+  static const String erropassword = "Password too weak.  At least 8 letters or numbers + special chars.";
+  static const String passwordstrong = "Password strong";
+}
